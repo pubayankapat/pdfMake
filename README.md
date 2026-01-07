@@ -8,5 +8,5 @@ Clone the repository using the following command:
 git clone
 
 Run the project using the following command:
-npm i 
+npm i <br>
 npm start
