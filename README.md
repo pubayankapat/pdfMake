@@ -1,4 +1,4 @@
-## this is pdfmake project of javaascript liblrary called pdfmake
+## this is pdfmake project of javascript liblrary called pdfmake
 ## this project is used to generate pdf files in javascript
 ## this project is open source and free to use
 ## for more information visit https://pdfmake.github.io/docs/0.1/
